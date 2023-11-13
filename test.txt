@@ -1,0 +1,19 @@
+test
+
+lskjdfoijt;lkj
+
+boh got started to edit this file.
+
+
+hello world
+
+
+showtime
+
+다시 변경해서 커밋하고 푸시하기
+
+
+
+
+실행기 구문
+java -jar server.jar
