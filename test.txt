@@ -15,5 +15,11 @@ showtime
 
 
 
+
 실행기 구문
 java -jar server.jar
+
+내 브랜치에서 작업
+
+결과물을 합치자
+
